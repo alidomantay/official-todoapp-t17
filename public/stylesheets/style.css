@@ -1,0 +1,35 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: red;
+  background-color: black!important;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/*-----------TODO-------------*/
+#userTodo{
+  background-color: white;
+  color: black;
+}
+/*------------END---------------*/
+/*-----------HEADER START-------------*/
+#s1{
+  padding-bottom: 44px; 
+  color: rgb(205, 217, 226);
+}
+#s2{
+  font-weight: 100; 
+  font-size: 100px; 
+  line-height: 40px
+}
+#name{
+  padding: 23px 0px;
+}
+
+#app{
+  background-color: black;
+}
+
+/*------------END---------------*/
